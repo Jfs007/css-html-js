@@ -1,0 +1,91 @@
+body{background: url('../images/allbg.png') #F7F8F9 repeat-x;}
+.cn{width:980px;margin: 0 auto;position: relative;}
+.header{}
+.top{background: url('../images/HeadHdBg.png') repeat-x;overflow: hidden;height: 104px;}
+.top-l{width:397px;height: 104px;background: url('../images/logo.png')  no-repeat;}
+.top-r{margin: 19px 0;width:300px;overflow: hidden;margin-bottom: 0;}
+.top-r a{display: inline-block;vertical-align: middle;color: #44B944;font-size: 12px;}
+.top-r a.first{margin-left: 115px;}
+.top-r img.language{vertical-align: middle;margin-right: 8px;width:19px; height: 13px;background: url('../images/Hdspirits.png') no-repeat;}
+.top-r img.China{background-position: 0 0;}			
+.top-r img.English{background-position: -26px 0;}
+.top-r img.telg{height: 35px;background: url('../images/Hdspirits.png') no-repeat;margin-top: 9px;}
+.top-r img.telicon{width:117px;background-position: 0 -18px;}
+.top-r img.tel{width:168px;height: 35px;background-position: 0 -59px;}
+.top-r a.cutline{padding: 0 8px;}
+.topnav{height: 40px;line-height: 40px;font-size: 17px;background: url('../images/HeadNavBg.png') -23px 0;}
+.topnav li{width:107px;text-align: center;}
+.topnav li.first{width:97px}
+.topnav li a{height: inherit;display: block;color:#fff;}
+.topnav li a:hover{background: url('../images/cnLeaf.png') no-repeat;margin-top: -1px;margin-left: -3px;}
+.topBanner{height: 354px;overflow: hidden;position: relative;}
+.topBanner .imglist{height: inherit;}
+.topBanner .imglist li{position:absolute;top:0;left: 0;height: 100%;}
+.topBanner .imglist li.active{z-index: 3;}
+.topBanner .prev,.topBanner .next{width:54px;height: 54px;position: absolute;top:50%;margin-top: -27px;background: url('../images/prev_next_bg.png') no-repeat;z-index: 5;}
+.topBanner .prev{background-position:0 0; left: 0;}
+.topBanner .next{background-position:0 -50px;right: 0;}
+.usersec{margin: 1px 0;background: #F1F2F2;height: 56px;} 
+.usersec .usericon{background: url('../images/CtNavspirits.png') no-repeat;}
+.cnlogin{width:712px;}
+.cnlogin .user{width:134px;height: 36px;background-position: 0 0;margin-top: 15px;margin-left: 10px;}
+.cnlogin input{width:141px;box-sizing: border-box;border: none;margin-left: 10px;height: 23px;float: left;margin-top: 15px;}
+.cnlogin input.submit{width:45px;height: 24px;background-position: -137px 0;color: #fff;}
+.cnlogin input.psd{background:url('../images/PwdBg.png') no-repeat;padding-left:32px;}
+.cnlogin input.text{background: #fff;padding-left: 11px;}
+.enjoy{color:#178C17;}
+.enjoy span,.enjoy .wrap{float:left;margin-top: 20px;}
+.enjoy span .btn{background-position: -17px -39px;width:16px;height: 16px;vertical-align: middle;margin-right: 7px;}
+.enjoy .wrap{position:relative;overflow: hidden;width:156px;height: 18px;margin-left: 9px;}
+.enjoy p{position:absolute;top:0;left: 0;}
+.enjoy p a{width:16px;height: 16px;float:left;margin-right: 5px;}
+.enjoy p .QQ{background-position:-36px -39px;}
+.enjoy p .xl_weibo{background-position:-54px -39px;}
+.enjoy p .tx_weibo{background-position:-74px -39px;}
+.enjoy p .renren{background-position:-92px -39px;}
+.enjoy p .souhu{background-position:-111px -39px}
+.message{background: #F9F9FA;overflow: hidden;padding-top: 25px;}
+.message .spirite{background: url('../images/Contactspirits.png') no-repeat;}
+.message .profile,.message .news{float:left;}
+.message .news{width:403px;border-left: 1px solid #dedede;border-right: 1px solid #dedede;height: 246px;} 
+.message .profile{line-height: 24px;width:301px;}
+.message .contactUs{margin-left: 706px;}
+.message .title{height: 54px; background-position: 0 0;}
+.message .bg{background:url('../images/Centerspirits.png') no-repeat}
+.message .title .info{line-height: 36px;font-size: 8px;color: #787878;float:left}
+.message .title span{font-size: 15px;color: #fff;padding-left: 7px;padding-right: 26px;font-weight: bold;}
+.message .title .more{width:44px;height: 13px;background-position:0 -58px;float:right;margin-top: 11px;margin-right: 19px;}
+.message .infolist{margin-top: 12px;color: #6C6C6C;}
+.message .img{width:130px;padding-right: 13px;display: inline-block;float:left}
+.message .news .img{width:142;padding: 13px;padding-top: 0;float: left;}
+.message .news .text{margin-left: 168px;color: #A8A8A8;line-height: 26px;font-size: 12px;}
+.message .news .text h1{color: #50B540;margin-bottom: 6px;}
+.message .news .text a{color:#50B540;}
+.message .news .newdis{margin-left: 22px;}
+.message .news .newdis li{float:none;line-height: 26px;height: 26px;}
+.message .news .newdis .bot{width:7px;height: 6px;background-position: -18px -36px;vertical-align: middle;margin-right: 5px;}
+.message .news .newdis .data{margin-right: 17px;color: #959595;}
+.message .contactUs li{float:none;height: 20px;line-height: 20px;margin-bottom: 16px;margin-left: 12px;color:#959595}
+.message .contactUs li i{width:16px;height: 16px;margin-right: 7px;display: inline-block;vertical-align: middle;}
+.message .contactUs .address{background-position: 0 0;}
+.message .contactUs .postcode{background-position: -18px 0;}
+.message .contactUs .tel{background-position:0 -18px}
+.message .contactUs .fax{background-position: -18px -18px;}
+.message .contactUs .email{background-position: 0 -36px;}
+.product{background: #F9F9FA;overflow: hidden;}
+.product .title{height: 40px;}
+.product .pdspirit{background: url('../images/PDspirit.png') no-repeat;}
+.product .title .titimg{width:105px;height: 40px;background-position:0 0;float:left}
+.product .title p{width:793px;background:url('../images/PDHeadBg.png') center center repeat-x;height: inherit;margin: 0 10px;}
+.product .title .prev,.product .title .next{width:25px;height: 25px;margin-right: 5px;margin-top: 7px;float:left;}
+.product .title .prev{background-position: 0 -41px;}
+.product .title .next{background-position:-27px -41px}
+.product .wrap{width:960px;position: relative;overflow: hidden;margin: 0 auto;height: 196px;}
+.product .wrap .imglist{width:2140px;position: absolute;left: 0;}
+.product .wrap .imglist li{width:175px;margin-right: 22px;}
+.product .wrap h1{height: 52px;line-height: 52px;#6C6C6C;text-align: center;}
+.footer{width:5000px;height: 90px;position: absolute;margin-left: -2000px;background: #267216;line-height: 12px;}
+.footer .ftmiddle{width:980px;position: absolute;left: 50%;margin-left: -490px;top:0;overflow: hidden;}
+.footer p{margin-top: 16px;text-align: center;color: #fff;}
+.footer span{padding-right: 24px;}
+

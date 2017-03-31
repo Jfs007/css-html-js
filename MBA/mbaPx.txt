@@ -1,0 +1,66 @@
+
+ 
+����������ɽ���Ͷ�����޹�˾��Ȩ����  ��ICP��130278330�� ��˽����
+
+��ַ�����ڱ������5��һ·�����ͷ׳���¥ 
+����������ɽ���Ͷ�����޹�˾��Ȩ����  ��ICP��130278330�� ��˽����div ��ҳ��
+div ��ҳ
+width 616 height 51px
+border<> 2 ^^3
+��ҳcontent
+height 48 width 145
+margin-left 6
+em width 11
+table 
+320
+313
+input 197
+label padding<24>12
+select 77 margin-right 8
+submit margin-top13
+div margin-left35right41
+----index.jsp----
+title height:87;
+
+nav height:43;
+
+navsub height:30
+
+nav2 height:74
+
+[main height:373
+mainleft:686px
+]
+
+[main2 height:671
+[block width:313 height:271 margin-right:29 margin-top 41  margin-bottom:26
+blockcontent:height:150 width:304
+blockcontentbt:height:116;margin-top:20;width:250
+]
+]
+about height:278
+footer height:202
+----4内页MBA.jsp----
+
+title height:87;
+nav height:43;
+nav2 height:106
+main1 height:277 width:999
+[main2 height:223 margin-top/bottom:33;
+block height:158 margin-top 22;
+]
+[main boby
+[
+分类知识：height:344 width:483
+分类知识-title height: 29 border-bottom:2 font-size:12px
+分类知识二块 height:89 width:467
+分类知识-boby height:82 width:133
+]
+]
+luobo
+width:162,260;
+width:898
+width:999;321 padding 25
+width:999,353 top33
+ul 902 width 2392px
+yidong 925;
